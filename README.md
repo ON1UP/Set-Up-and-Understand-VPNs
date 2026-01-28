@@ -1,4 +1,4 @@
-# Suspicious Browser Extensions
+# Set Up and Understand VPNs
 
 ## 🎯 Objective
 Understand the role of VPNs in protecting privacy and secure communication.
