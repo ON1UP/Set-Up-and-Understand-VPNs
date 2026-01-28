@@ -1,4 +1,4 @@
-# Task 8: Identify and Remove Suspicious Browser Extensions
+# Suspicious Browser Extensions
 
 ## 🎯 Objective
 Understand the role of VPNs in protecting privacy and secure communication.
